@@ -32,8 +32,7 @@ Just upload your resume and get actionable feedback in seconds.
 
 | Upload Resume | Get Detailed Feedback |
 |---------------|-----------------------|
-|<img width="7684" height="4322" alt="resuscan-nine vercel app_(High Res)" src="https://github.com/user-attachments/assets/7dab332a-ee04-454c-8052-cb7757aaf7ce" />
-|<img width="7684" height="4322" alt="resuscan-nine vercel app_(High Res) (1)" src="https://github.com/user-attachments/assets/a5192afa-a3db-4411-88b3-08b11644a221" />
+|<img width="7684" height="4322" alt="resuscan-nine vercel app_(High Res)" src="https://github.com/user-attachments/assets/7dab332a-ee04-454c-8052-cb7757aaf7ce" />|<img width="7684" height="4322" alt="resuscan-nine vercel app_(High Res) (1)" src="https://github.com/user-attachments/assets/a5192afa-a3db-4411-88b3-08b11644a221" />
 |
 
 
