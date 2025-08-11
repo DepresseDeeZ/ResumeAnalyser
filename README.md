@@ -51,8 +51,7 @@ If you want to run **ResuScan** locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/resuscan.git
-
+https://github.com/DepresseDeeZ/ResumeAnalyser.git
 # Navigate to the project folder
 cd resuscan
 
